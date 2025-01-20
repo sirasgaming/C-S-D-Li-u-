@@ -11,6 +11,6 @@ int sum_1_to_n(int n) {
 
 int main() {
     int n = 5;
-    cout << "Tong 1. . n = " << sum_1_to_n(n) << endl;  // Output: 115
+    cout << "Tong 1. . n = " << sum_1_to_n(n) << endl;  // Output: 15
     return 0;
 }
